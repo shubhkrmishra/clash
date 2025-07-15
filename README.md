@@ -12,6 +12,11 @@ Inside Server Folder:
 - In the other terminal, run this command to up the server - "npm run server" - Server is running and able to get response
 
 
+Inside Frontend Folder:
+- creating frontend directory using next js by command -  "npx create-next-app@latest"
+- frontend application can be up and running using this command - "npm run dev"
+
+
 If taking Pull of this application-
 - First make sure to add some configuration to up the server
 - git init - "npm i"
